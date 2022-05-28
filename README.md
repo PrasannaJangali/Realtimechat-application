@@ -16,4 +16,5 @@ $ git clone git@github.com:PrasannaJangali/Realtimechat-application.git
 $ cd ../nodeserver
 $ npm install
 $ node index.js
+and then open the html file
 
